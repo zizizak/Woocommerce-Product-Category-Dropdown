@@ -125,6 +125,6 @@ function woocommerce_category_filter_1() {
 			</script>
 			
 
-					<?php
+	<?php
 
 }
